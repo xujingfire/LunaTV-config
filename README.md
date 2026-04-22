@@ -337,15 +337,15 @@ console.log(`Request from: ${request.headers.get('cf-connecting-ip')}`)
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-04-22 02:03 CST）
+## API 状态（最近更新：2026-04-23 02:04 CST）
 
 - 总 API 数量：78
-- 成功 API 数量：66
-- 失败 API 数量：12
-- 平均可用率：88.6%
+- 成功 API 数量：69
+- 失败 API 数量：9
+- 平均可用率：88.5%
 - 完美可用率（100%）：50 个
-- 高可用率（80%-99%）：18 个
-- 中等可用率（50%-79%）：1 个
+- 高可用率（80%-99%）：19 个
+- 中等可用率（50%-79%）：0 个
 - 低可用率（<50%）：9 个
 
 <div style="font-size: 11px;">
@@ -406,27 +406,27 @@ console.log(`Request from: ${request.headers.get('cf-connecting-ip')}`)
 | ✅ | 🎬-爱奇艺- | [Link](https://iqiyizyapi.com) | [Link](https://iqiyizyapi.com/api.php/provide/vod) | ✅ | 29 | 1 | 96.7% | ✅✅✅✅✅✅✅ |
 | ✅ | 🎬360 资源 | [Link](https://360zy.com) | [Link](https://360zyzz.com/api.php/provide/vod) | ✅ | 29 | 1 | 96.7% | ✅✅✅✅✅✅✅ |
 | ✅ | 🎬iKun资源 | [Link](https://ikunzy.com) | [Link](https://ikunzyapi.com/api.php/provide/vod) | ✅ | 29 | 1 | 96.7% | ✅✅✅✅✅✅✅ |
-| ❌ | 🎬最大点播 | [Link](https://zuidazy.co) | [Link](https://zuidazy.me/api.php/provide/vod) | ✅ | 29 | 1 | 96.7% | ✅✅✅✅✅✅❌ |
+| ✅ | 🎬最大点播 | [Link](https://zuidazy.co) | [Link](https://zuidazy.me/api.php/provide/vod) | ✅ | 29 | 1 | 96.7% | ✅✅✅✅✅❌✅ |
 | ✅ | 🎬天涯影视 | [Link](https://tyyszy.com) | [Link](https://tyyszy.com/api.php/provide/vod) | ❌ | 29 | 1 | 96.7% | ✅✅✅✅✅✅✅ |
 | ✅ | 🎬电影天堂 | [Link](http://caiji.dyttzyapi.com) | [Link](http://caiji.dyttzyapi.com/api.php/provide/vod) | ❌ | 29 | 1 | 96.7% | ✅✅✅✅✅✅✅ |
 | ✅ | 🎬豆瓣资源 | [Link](https://dbzy.tv) | [Link](https://caiji.dbzy5.com/api.php/provide/vod) | ✅ | 29 | 1 | 96.7% | ✅✅✅✅✅✅✅ |
 | ✅ | 🎬速播资源 | [Link](https://www.subozy.com) | [Link](https://subocaiji.com/api.php/provide/vod) | ✅ | 29 | 1 | 96.7% | ✅✅✅✅✅✅✅ |
-| ❌ | 🎬量子影视 | [Link](https://lzizy.net) | [Link](https://cj.lziapi.com/api.php/provide/vod) | ✅ | 29 | 1 | 96.7% | ✅✅✅✅✅✅❌ |
+| ✅ | 🎬量子影视 | [Link](https://lzizy.net) | [Link](https://cj.lziapi.com/api.php/provide/vod) | ✅ | 29 | 1 | 96.7% | ✅✅✅✅✅❌✅ |
 | ✅ | 🎬量子资源 | [Link](https://cj.lzcaiji.com) | [Link](https://cj.lzcaiji.com/api.php/provide/vod) | ✅ | 29 | 1 | 96.7% | ✅✅✅✅✅✅✅ |
-| ❌ | 🎬金蝉影视 | [Link](https://zy.jinchancaiji.com) | [Link](https://zy.jinchancaiji.com/api.php/provide/vod) | ✅ | 29 | 1 | 96.7% | ✅✅✅✅✅✅❌ |
+| ✅ | 🎬金蝉影视 | [Link](https://zy.jinchancaiji.com) | [Link](https://zy.jinchancaiji.com/api.php/provide/vod) | ✅ | 29 | 1 | 96.7% | ✅✅✅✅✅❌✅ |
 | ✅ | 🎬魔都资源 | [Link](https://www.moduzy.net) | [Link](https://www.mdzyapi.com/api.php/provide/vod) | ✅ | 29 | 1 | 96.7% | ✅✅✅✅✅✅✅ |
 | ✅ | 🔞小鸡资源 | [Link](https://xiaojizy.live) | [Link](https://api.xiaojizy.live/provide/vod) | ✅ | 29 | 1 | 96.7% | ✅✅✅✅✅✅✅ |
-| ✅ | 🎬卧龙资源 | [Link](https://wolongzyw.com) | [Link](https://wolongzyw.com/api.php/provide/vod) | ✅ | 28 | 2 | 93.3% | ✅❌✅✅✅✅✅ |
+| ✅ | 🎬卧龙资源 | [Link](https://wolongzyw.com) | [Link](https://wolongzyw.com/api.php/provide/vod) | ✅ | 28 | 2 | 93.3% | ❌✅✅✅✅✅✅ |
 | ✅ | 🎬猫眼资源 | [Link](https://www.maoyanzy.com) | [Link](https://api.maoyanapi.top/api.php/provide/vod) | ✅ | 28 | 2 | 93.3% | ✅✅✅✅✅✅✅ |
-| ✅ | 🎬茅台资源 | [Link](https://mtzy.me) | [Link](https://caiji.maotaizy.cc/api.php/provide/vod) | ✅ | 28 | 2 | 93.3% | ✅❌✅✅✅✅✅ |
+| ✅ | 🎬茅台资源 | [Link](https://mtzy.me) | [Link](https://caiji.maotaizy.cc/api.php/provide/vod) | ✅ | 28 | 2 | 93.3% | ❌✅✅✅✅✅✅ |
 | ✅ | 🔞-奥斯卡- | [Link](https://aosikazy.com) | [Link](https://aosikazy.com/api.php/provide/vod) | ✅ | 28 | 2 | 93.3% | ✅✅✅✅✅✅✅ |
 | ✅ | 🎬U酷影视 | [Link](https://www.ukuzy.com) | [Link](https://api.ukuapi88.com/api.php/provide/vod) | ✅ | 27 | 3 | 90.0% | ✅✅✅✅✅✅✅ |
-| ✅ | 🔞豆豆资源 | [Link](https://doudouzy.com) | [Link](https://api.douapi.cc/api.php/provide/vod) | ✅ | 23 | 7 | 76.7% | ✅✅✅✅✅✅✅ |
-| 🚨 | 🔞优优资源 | [Link](https://www.yyzywcj.com) | [Link](https://www.yyzywcj.com/api.php/provide/vod) | ❌ | 8 | 22 | 26.7% | ❌❌❌❌❌❌❌ |
-| 🚨 | 🎬如意资源 | [Link](https://www.ryzyw.com) | [Link](https://pz.168188.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod) | ❌ | 7 | 23 | 23.3% | ❌❌❌❌❌❌❌ |
-| 🚨 | 🎬百度云zy | [Link](https://bdzy1.com) | [Link](https://pz.168188.dpdns.org/?url=https://api.apibdzy.com/api.php/provide/vod) | ❌ | 7 | 23 | 23.3% | ❌❌❌❌❌❌❌ |
-| 🚨 | 🎬豪华资源 | [Link](https://www.haohuazy.com) | [Link](https://pz.168188.dpdns.org/?url=https://hhzyapi.com/api.php/provide/vod) | ❌ | 7 | 23 | 23.3% | ❌❌❌❌❌❌❌ |
-| 🚨 | 🔞辣椒资源 | [Link](https://apilj.com) | [Link](https://pz.168188.dpdns.org/?url=https://apilj.com/api.php/provide/vod) | ❌ | 6 | 24 | 20.0% | ❌❌❌❌❌❌❌ |
+| ✅ | 🔞豆豆资源 | [Link](https://doudouzy.com) | [Link](https://api.douapi.cc/api.php/provide/vod) | ✅ | 24 | 6 | 80.0% | ✅✅✅✅✅✅✅ |
+| 🚨 | 🔞优优资源 | [Link](https://www.yyzywcj.com) | [Link](https://www.yyzywcj.com/api.php/provide/vod) | ❌ | 7 | 23 | 23.3% | ❌❌❌❌❌❌❌ |
+| 🚨 | 🎬如意资源 | [Link](https://www.ryzyw.com) | [Link](https://pz.168188.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod) | ❌ | 6 | 24 | 20.0% | ❌❌❌❌❌❌❌ |
+| 🚨 | 🎬百度云zy | [Link](https://bdzy1.com) | [Link](https://pz.168188.dpdns.org/?url=https://api.apibdzy.com/api.php/provide/vod) | ❌ | 6 | 24 | 20.0% | ❌❌❌❌❌❌❌ |
+| 🚨 | 🎬豪华资源 | [Link](https://www.haohuazy.com) | [Link](https://pz.168188.dpdns.org/?url=https://hhzyapi.com/api.php/provide/vod) | ❌ | 6 | 24 | 20.0% | ❌❌❌❌❌❌❌ |
+| 🚨 | 🔞辣椒资源 | [Link](https://apilj.com) | [Link](https://pz.168188.dpdns.org/?url=https://apilj.com/api.php/provide/vod) | ❌ | 5 | 25 | 16.7% | ❌❌❌❌❌❌❌ |
 | 🚨 | 🎬山海资源 | [Link](https://zy.sh0o.cn) | [Link](https://zy.sh0o.cn/api.php/provide/vod) | ❌ | 0 | 30 | 0.0% | ❌❌❌❌❌❌❌ |
 | 🚨 | 🎬艾旦影视 | [Link](https://lovedan.net) | [Link](https://lovedan.net/api.php/provide/vod) | ❌ | 0 | 30 | 0.0% | ❌❌❌❌❌❌❌ |
 | 🚨 | 🔞-幸资源- | [Link](https://xzytv.com) | [Link](https://xzybb2.com/api.php/provide/vod) | ❌ | 0 | 30 | 0.0% | ❌❌❌❌❌❌❌ |
